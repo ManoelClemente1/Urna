@@ -1,0 +1,10 @@
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\bin\Debug\urna1.exe.config
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\bin\Debug\urna1.exe
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\bin\Debug\urna1.pdb
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.csprojAssemblyReference.cache
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.Form1.resources
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.Properties.Resources.resources
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.csproj.GenerateResource.cache
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.exe
+C:\Users\Manoel Clemente\source\repos\Urna\urna1\urna1\obj\Debug\urna1.pdb
